@@ -1,0 +1,6 @@
+framework module CCAuthorKit {
+  umbrella header "CCAuthorKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
